@@ -1,0 +1,4 @@
+GET http://host.docker.internal:3000/routes
+
+###
+GET http://host.docker.internal:3000/routes/1/start
